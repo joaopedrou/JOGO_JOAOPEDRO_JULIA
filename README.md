@@ -1,4 +1,4 @@
 # JOGO_JOAOPEDRO_JULIA
 Um jogo de Javascript
 Link do joguinho top de linha
-https://github.com/joaopedrou/JOGO_JOAOPEDRO_JULIA.git
+file:///C:/Users/marti/Nova%20pasta/JOGO_JOAOPEDRO_%20JULIA/JOGO_JOAOPEDRO_JULIA-1/INDEX.HTML
